@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An Electron application with Vue and TypeScript",
   "main": "./out/main/index.js",
-  "author": "example.com",
+  "author": "bojun1995",
   "homepage": "https://electron-vite.org",
   "scripts": {
     "format": "prettier --write .",
@@ -38,6 +38,7 @@
     "eslint": "^9.23.0",
     "eslint-plugin-vue": "^9.33.0",
     "prettier": "^3.5.3",
+    "sass": "^1.86.1",
     "typescript": "^5.8.2",
     "unplugin-auto-import": "^19.1.2",
     "vite": "^6.2.3",

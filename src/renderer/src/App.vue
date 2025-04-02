@@ -1,9 +1,12 @@
 <template>
-  <div>123123{{ test }}</div>
+  <div id="app">
+    <TestCmd></TestCmd>
+  </div>
 </template>
 
 <script setup lang="ts">
-const test = ref(123123)
+import TestCmd from './views/test-cmd.vue'
+
 </script>
 
 <style lang="scss" rel="stylesheet/scss" type="text/scss" scoped></style>
