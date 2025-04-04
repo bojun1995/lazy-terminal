@@ -25,6 +25,7 @@
     "@electron-toolkit/utils": "^4.0.0",
     "electron": "^35.1.2",
     "electron-updater": "^6.3.9",
+    "node-pty": "^1.0.0",
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
